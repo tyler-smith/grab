@@ -1,4 +1,4 @@
-module github.com/tyler-smith/grab
+module github.com/tyler-smith/grab/v3
 
 go 1.13
 
